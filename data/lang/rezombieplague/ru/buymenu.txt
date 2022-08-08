@@ -1,0 +1,10 @@
+[ru]
+BUYMENU_TAG = ^1[^4Магазин^1]
+
+BUYMENU_TITLE = \r[\yBuyMenu\r] \wМагазин
+BUYMENU_NO_ROUND = Только с^4 %i раунда.
+BUYMENU_NO_MONEY = Недостаточно^4 %s.
+BUYMENU_LIMIT = Максимум^4 %i ^1раз за ^4раунд^1!
+
+BUYMENU_AMMO = Аммо
+BUYMENU_MONEY = $
